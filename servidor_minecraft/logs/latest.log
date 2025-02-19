@@ -44,3 +44,10 @@
 [23:12:22] [Server thread/INFO]: williwanwan joined the game
 [23:12:22] [Server thread/INFO]: williwanwan[/127.193.142.163:46947] logged in with entity id 14 at ([world]2257.4321012452356, 64.0, -328.109166706664)
 [23:12:55] [Server thread/INFO]: williwanwan has made the advancement [Who Needs Rockets?]
+[23:20:12] [User Authenticator #1/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
+[23:20:15] [Server thread/INFO]: ollop78 joined the game
+[23:20:15] [Server thread/INFO]: ollop78[/127.174.213.253:41965] logged in with entity id 2112 at ([world]1414.1535872605423, -32.4375, -732.6999999880791)
+[23:22:04] [Async Chat Thread - #1/INFO]: [Not Secure] <ollop78> 1426 -732
+[23:22:43] [Async Chat Thread - #1/INFO]: [Not Secure] <ollop78> 178 -91.5
+[23:38:25] [Server thread/INFO]: Villager Villager['Villager'/7799, uuid='4ecd96ec-9949-46e5-b5d0-9a761223bd6c', l='ServerLevel[world]', x=2368.44, y=69.00, z=-782.19, cpos=[148, -49], tl=38995, v=true] died, message: 'Villager was slain by ollop78'
+[23:38:33] [Server thread/INFO]: Villager Villager['Villager'/7802, uuid='adcba0ed-c2c7-48c0-807b-cd4982a178ea', l='ServerLevel[world]', x=2355.08, y=67.00, z=-756.84, cpos=[147, -48], tl=37023, v=true] died, message: 'Villager was slain by ollop78'
