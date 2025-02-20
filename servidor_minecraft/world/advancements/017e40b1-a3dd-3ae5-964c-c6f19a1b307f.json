@@ -831,6 +831,7 @@
       "minecraft:cave_spider": "2025-02-12 02:38:30 +0000",
       "minecraft:piglin": "2025-02-12 03:55:01 +0000",
       "minecraft:enderman": "2025-02-16 03:41:56 +0000",
+      "minecraft:endermite": "2025-02-20 22:06:02 +0000",
       "minecraft:spider": "2025-02-12 02:15:30 +0000",
       "minecraft:piglin_brute": "2025-02-12 04:01:52 +0000",
       "minecraft:zombie": "2025-01-21 03:50:01 +0000",
@@ -3211,6 +3212,12 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-02-20 00:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2025-02-20 22:02:04 +0000"
     },
     "done": true
   },

@@ -43,3 +43,4 @@
 [20:56:16] [User Authenticator #0/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
 [20:56:20] [Server thread/INFO]: ollop78 joined the game
 [20:56:21] [Server thread/INFO]: ollop78[/127.94.241.105:41745] logged in with entity id 26 at ([world]2229.699999988079, 62.875, -364.6601308663968)
+[22:14:09] [Server thread/INFO]: Villager Villager['Villager'/10737, uuid='4c7086c6-e014-47a4-b91e-595f013454fe', l='ServerLevel[world]', x=2228.12, y=61.00, z=-389.30, cpos=[139, -25], tl=24770, v=true] died, message: 'Villager was squished too much'
