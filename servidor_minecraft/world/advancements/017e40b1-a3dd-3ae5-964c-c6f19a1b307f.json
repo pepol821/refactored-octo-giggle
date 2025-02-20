@@ -3142,39 +3142,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-02-19 23:34:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-19 23:24:14 +0000"
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2025-02-20 00:12:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-19 23:24:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-02-20 00:11:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-02-19 23:34:38 +0000"
     },
     "done": true
   },
@@ -3190,9 +3166,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-19 23:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-19 23:34:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-02-19 23:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-20 00:01:32 +0000"
     },
     "done": true
   },
@@ -3202,15 +3196,21 @@
     },
     "done": true
   },
-  "minecraft:nether/create_full_beacon": {
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-20 00:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-02-20 00:12:06 +0000"
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
+  "minecraft:nether/create_full_beacon": {
     "criteria": {
-      "summoned": "2025-02-20 00:01:32 +0000"
+      "beacon": "2025-02-20 00:12:06 +0000"
     },
     "done": true
   },
