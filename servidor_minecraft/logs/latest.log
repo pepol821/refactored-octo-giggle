@@ -42,3 +42,7 @@
 [03:27:45] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
 [03:28:00] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
 [03:28:00] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
+[03:32:47] [Server thread/INFO]: ollop78 issued server command: /tp ollop78 2194 63 -397
+[03:32:47] [Server thread/INFO]: [ollop78: Teleported ollop78 to 2194.500000, 63.000000, -396.500000]
+[03:34:45] [Server thread/INFO]: ollop78 issued server command: /deop ollop78
+[03:34:45] [Server thread/INFO]: [ollop78: Made ollop78 no longer a server operator]
