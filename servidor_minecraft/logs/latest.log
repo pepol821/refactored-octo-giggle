@@ -46,3 +46,30 @@
 [03:32:47] [Server thread/INFO]: [ollop78: Teleported ollop78 to 2194.500000, 63.000000, -396.500000]
 [03:34:45] [Server thread/INFO]: ollop78 issued server command: /deop ollop78
 [03:34:45] [Server thread/INFO]: [ollop78: Made ollop78 no longer a server operator]
+[03:42:26] [Server thread/INFO]: Villager Villager['Villager'/70700, uuid='19fe32ea-de1c-4601-bde8-83af167a98be', l='ServerLevel[world]', x=2228.15, y=61.00, z=-389.30, cpos=[139, -25], tl=25437, v=true] died, message: 'Villager was squished too much'
+[03:42:27] [Server thread/INFO]: ollop78 lost connection: Disconnected
+[03:42:27] [Server thread/INFO]: ollop78 left the game
+[03:42:38] [Server thread/INFO]: Stopping the server
+[03:42:38] [Server thread/INFO]: Stopping server
+[03:42:38] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
+[03:42:38] [Server thread/INFO]: Saving players
+[03:42:38] [Server thread/INFO]: Saving worlds
+[03:42:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:42:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:42:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:42:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:42:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[03:42:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:42:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:42:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:42:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:42:38] [Server thread/INFO]: [ChunkHolderManager] Saved 11 block chunks, 96 entity chunks, 0 poi chunks in world 'world_nether' in 0.04s
+[03:42:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:42:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:42:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:42:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:42:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[03:42:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:42:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:42:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:42:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
