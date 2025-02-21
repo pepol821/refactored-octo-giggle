@@ -15,7 +15,9 @@
       "minecraft:sparse_jungle": "2025-01-07 23:50:16 +0000",
       "minecraft:river": "2025-01-07 23:27:53 +0000",
       "minecraft:dripstone_caves": "2025-01-21 03:41:08 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-21 03:16:27 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-07 23:50:57 +0000",
+      "minecraft:frozen_ocean": "2025-02-21 03:17:09 +0000",
       "minecraft:windswept_forest": "2025-02-21 03:14:41 +0000",
       "minecraft:jungle": "2025-01-07 23:55:14 +0000",
       "minecraft:sunflower_plains": "2025-01-07 23:25:04 +0000",
@@ -3222,6 +3224,12 @@
   "minecraft:recipes/redstone/crafter": {
     "criteria": {
       "has_dropper": "2025-02-20 22:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-02-21 03:17:24 +0000"
     },
     "done": true
   },
