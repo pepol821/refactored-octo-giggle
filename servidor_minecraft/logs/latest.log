@@ -1,63 +1,9 @@
-[20:55:54] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[20:55:54] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[20:55:55] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[20:55:55] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[20:55:55] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - sleep-most (5.5.1)
-[20:56:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:56:04] [ServerMain/INFO]: Loaded 1290 recipes
-[20:56:05] [ServerMain/INFO]: Loaded 1399 advancements
-[20:56:05] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[20:56:05] [Server thread/INFO]: Loading properties
-[20:56:05] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[20:56:06] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[20:56:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:56:06] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:56:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[20:56:07] [Server thread/INFO]: Default game type: SURVIVAL
-[20:56:07] [Server thread/INFO]: Generating keypair
-[20:56:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:56:07] [Server thread/INFO]: Using epoll channel type
-[20:56:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:56:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[20:56:08] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.1
-[20:56:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:56:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:56:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:56:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:56:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:56:08] [Server thread/INFO]: Preparing level "world"
-[20:56:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:56:10] [Server thread/INFO]: Time elapsed: 1904 ms
-[20:56:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:56:11] [Server thread/INFO]: Time elapsed: 400 ms
-[20:56:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:56:11] [Server thread/INFO]: Time elapsed: 199 ms
-[20:56:11] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.1
-[20:56:11] [Server thread/INFO]: [spark] Starting background profiler...
-[20:56:12] [Server thread/INFO]: Done preparing level "world" (4.637s)
-[20:56:12] [Server thread/INFO]: Running delayed init tasks
-[20:56:12] [Server thread/INFO]: Done (20.041s)! For help, type "help"
-[20:56:12] [Server thread/INFO]: Timings Reset
-[20:56:13] [Craft Scheduler Thread - 3 - sleep-most/INFO]: [sleep-most] UPDATE FOUND: A newer version of sleep-most is available to download!
-[20:56:16] [User Authenticator #0/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
-[20:56:20] [Server thread/INFO]: ollop78 joined the game
-[20:56:21] [Server thread/INFO]: ollop78[/127.94.241.105:41745] logged in with entity id 26 at ([world]2229.699999988079, 62.875, -364.6601308663968)
-[22:14:09] [Server thread/INFO]: Villager Villager['Villager'/10737, uuid='4c7086c6-e014-47a4-b91e-595f013454fe', l='ServerLevel[world]', x=2228.12, y=61.00, z=-389.30, cpos=[139, -25], tl=24770, v=true] died, message: 'Villager was squished too much'
-[22:17:34] [Server thread/INFO]: Villager Villager['Villager'/75, uuid='22ea153d-353b-43df-bae8-f6cc01e2f729', l='ServerLevel[world]', x=2228.20, y=61.00, z=-389.54, cpos=[139, -25], tl=241773, v=true] died, message: 'Villager was squished too much'
-[22:18:53] [Server thread/INFO]: Villager Villager['Villager'/76, uuid='e97e31b4-6a78-494d-9091-8e6358c843d5', l='ServerLevel[world]', x=2228.11, y=61.00, z=-389.58, cpos=[139, -25], tl=243353, v=true] died, message: 'Villager was squished too much'
-[22:31:28] [Server thread/INFO]: Villager Villager['Villager'/16250, uuid='74e3a69f-a3a8-47d0-9352-1e8b0d52e8ca', l='ServerLevel[world]', x=2228.17, y=61.00, z=-389.47, cpos=[139, -25], tl=255905, v=true] died, message: 'Villager was squished too much'
-[22:54:22] [Server thread/INFO]: Villager Villager['Villager'/16283, uuid='e0fec46c-63b8-4a42-967c-38486609685b', l='ServerLevel[world]', x=2228.13, y=61.00, z=-389.30, cpos=[139, -25], tl=41706, v=true] died, message: 'Villager was squished too much'
-[23:05:20] [Server thread/INFO]: Villager Villager['Villager'/21106, uuid='16e5d5d1-8fb4-4321-8158-1a25cfc96832', l='ServerLevel[world]', x=2228.14, y=61.00, z=-389.30, cpos=[139, -25], tl=24393, v=true] died, message: 'Villager was squished too much'
-[23:06:23] [Server thread/INFO]: Villager Villager['Villager'/16782, uuid='abf97de3-5820-4d23-b6ee-c691aaf11640', l='ServerLevel[world]', x=2228.12, y=61.00, z=-389.70, cpos=[139, -25], tl=49594, v=true] died, message: 'Villager was squished too much'
-[23:06:36] [Server thread/INFO]: Villager Villager['Villager'/19858, uuid='465e8811-62dd-4463-86c5-38d34a0c7a26', l='ServerLevel[world]', x=2228.16, y=61.00, z=-389.30, cpos=[139, -25], tl=32614, v=true] died, message: 'Villager was squished too much'
-[23:11:16] [Server thread/INFO]: Villager Villager['Villager'/16261, uuid='af7566d1-ff66-49af-b32e-fb8ec8fbefcd', l='ServerLevel[world]', x=2228.23, y=61.00, z=-389.53, cpos=[139, -25], tl=281046, v=true] died, message: 'Villager was squished too much'
-[23:13:33] [Server thread/INFO]: Villager Villager['Villager'/16259, uuid='5301349c-ed7d-4b1b-b142-742739a175cf', l='ServerLevel[world]', x=2228.12, y=61.00, z=-389.41, cpos=[139, -25], tl=306396, v=true] died, message: 'Villager was squished too much'
-[23:14:12] [Server thread/INFO]: Villager Villager['Armorer'/16248, uuid='5100ab91-2513-4f2f-8629-69e9d02d837b', l='ServerLevel[world]', x=2228.10, y=61.00, z=-389.46, cpos=[139, -25], tl=307189, v=true] died, message: 'Armorer was squished too much'
-[23:31:39] [Server thread/INFO]: Villager Villager['Villager'/23775, uuid='a4f9581f-502f-4e6e-a23b-a87d7a5b9ef3', l='ServerLevel[world]', x=2228.22, y=61.00, z=-389.41, cpos=[139, -25], tl=40947, v=true] died, message: 'Villager was squished too much'
-[23:36:10] [Server thread/INFO]: Villager Villager['Villager'/24949, uuid='5d2fc5b9-fe0e-4ed4-bc5f-46036a3fff85', l='ServerLevel[world]', x=2228.12, y=61.00, z=-389.58, cpos=[139, -25], tl=39995, v=true] died, message: 'Villager was squished too much'
-[23:48:16] [Server thread/INFO]: Villager Villager['Villager'/29058, uuid='c67a536a-14e1-4273-b69c-ff29d6568e5d', l='ServerLevel[world]', x=2228.20, y=61.00, z=-389.44, cpos=[139, -25], tl=30600, v=true] died, message: 'Villager was squished too much'
-[23:49:26] [Server thread/INFO]: Villager Villager['Villager'/27987, uuid='b4102af0-6a98-4840-ad5d-020cebd08176', l='ServerLevel[world]', x=2228.12, y=61.00, z=-389.55, cpos=[139, -25], tl=38299, v=true] died, message: 'Villager was squished too much'
-[23:49:55] [Server thread/INFO]: Villager Villager['Villager'/16251, uuid='01ed0a95-b485-4732-ba02-d7f8445d6d83', l='ServerLevel[world]', x=2228.10, y=61.00, z=-389.58, cpos=[139, -25], tl=350043, v=true] died, message: 'Villager was squished too much'
-[23:51:38] [Server thread/INFO]: Villager Villager['Villager'/16260, uuid='b0e86165-ee5d-4934-9de7-bebf21cf9209', l='ServerLevel[world]', x=2228.16, y=61.00, z=-389.59, cpos=[139, -25], tl=336092, v=true] died, message: 'Villager was squished too much'
-[23:52:47] [Server thread/INFO]: Villager Villager['Villager'/16254, uuid='4df90bda-7452-42fe-83ca-af9fbbf25488', l='ServerLevel[world]', x=2228.11, y=61.00, z=-389.60, cpos=[139, -25], tl=133960, v=true] died, message: 'Villager was squished too much'
+[00:14:59] [Server thread/INFO]: Made ollop78 a server operator
+[00:15:07] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[00:15:07] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
+[00:15:17] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
+[00:15:17] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
+[00:16:35] [Server thread/INFO]: ollop78 issued server command: /seed
+[00:16:47] [Server thread/INFO]: ollop78 issued server command: /deop ollop78
+[00:16:47] [Server thread/INFO]: [ollop78: Made ollop78 no longer a server operator]
+[00:17:21] [Server thread/INFO]: Villager Villager['Villager'/39746, uuid='12fe1b34-c62d-480d-966e-75a79567b670', l='ServerLevel[world]', x=2228.11, y=61.00, z=-389.57, cpos=[139, -25], tl=339200, v=true] died, message: 'Villager was squished too much'
