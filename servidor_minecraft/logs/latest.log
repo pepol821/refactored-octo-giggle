@@ -7,3 +7,7 @@
 [00:16:47] [Server thread/INFO]: ollop78 issued server command: /deop ollop78
 [00:16:47] [Server thread/INFO]: [ollop78: Made ollop78 no longer a server operator]
 [00:17:21] [Server thread/INFO]: Villager Villager['Villager'/39746, uuid='12fe1b34-c62d-480d-966e-75a79567b670', l='ServerLevel[world]', x=2228.11, y=61.00, z=-389.57, cpos=[139, -25], tl=339200, v=true] died, message: 'Villager was squished too much'
+[00:24:58] [Server thread/INFO]: Villager Villager['Villager'/39810, uuid='48ae2bbf-cffb-4956-92c2-0d07faa135a2', l='ServerLevel[world]', x=2232.51, y=91.00, z=-317.46, cpos=[139, -20], tl=377538, v=true] died, message: 'Villager was slain by Zombie'
+[00:25:08] [Server thread/INFO]: Villager Villager['Villager'/39809, uuid='429aa611-e39f-4477-bfca-6e5f9f162b88', l='ServerLevel[world]', x=2232.40, y=91.00, z=-317.70, cpos=[139, -20], tl=377744, v=true] died, message: 'Villager was slain by Zombie'
+[00:25:14] [Server thread/INFO]: Villager Villager['Villager'/39808, uuid='7d64fc95-ec00-4899-974c-81f60188d441', l='ServerLevel[world]', x=2234.70, y=91.00, z=-317.30, cpos=[139, -20], tl=377863, v=true] died, message: 'Villager was slain by Zombie Villager'
+[00:25:20] [Server thread/INFO]: Villager Villager['Villager'/39811, uuid='c43ca97e-b47d-47cb-92d3-bfd8e18f145c', l='ServerLevel[world]', x=2232.84, y=91.00, z=-317.70, cpos=[139, -20], tl=377976, v=true] died, message: 'Villager was slain by Zombie Villager'
