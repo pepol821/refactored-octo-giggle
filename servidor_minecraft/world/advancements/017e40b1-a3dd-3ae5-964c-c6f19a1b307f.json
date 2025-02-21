@@ -7,12 +7,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-02-21 03:15:56 +0000",
       "minecraft:savanna_plateau": "2025-01-07 23:42:46 +0000",
+      "minecraft:dark_forest": "2025-02-21 03:14:55 +0000",
       "minecraft:forest": "2025-01-07 23:47:10 +0000",
+      "minecraft:taiga": "2025-02-21 03:15:46 +0000",
       "minecraft:sparse_jungle": "2025-01-07 23:50:16 +0000",
       "minecraft:river": "2025-01-07 23:27:53 +0000",
       "minecraft:dripstone_caves": "2025-01-21 03:41:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-07 23:50:57 +0000",
+      "minecraft:windswept_forest": "2025-02-21 03:14:41 +0000",
       "minecraft:jungle": "2025-01-07 23:55:14 +0000",
       "minecraft:sunflower_plains": "2025-01-07 23:25:04 +0000",
       "minecraft:cherry_grove": "2025-02-15 04:12:21 +0000",
