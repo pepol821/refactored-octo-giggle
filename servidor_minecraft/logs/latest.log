@@ -70,3 +70,5 @@
 [00:16:14] [Server thread/INFO]: Villager Villager['Villager'/474, uuid='d43e6765-f6b4-418c-9af1-dd37b1bb459d', l='ServerLevel[world]', x=2228.13, y=61.00, z=-389.59, cpos=[139, -25], tl=604717, v=true] died, message: 'Villager was squished too much'
 [00:19:05] [Server thread/INFO]: Villager Villager['Villager'/467, uuid='73bd596a-08b0-4123-8151-2ec144bdfc6c', l='ServerLevel[world]', x=2228.10, y=61.00, z=-389.52, cpos=[139, -25], tl=260361, v=true] died, message: 'Villager was squished too much'
 [00:19:15] [Server thread/INFO]: Villager Villager['Villager'/479, uuid='b4d36ac7-614a-4dfe-9e43-87ff641a985b', l='ServerLevel[world]', x=2228.12, y=61.00, z=-389.42, cpos=[139, -25], tl=166663, v=true] died, message: 'Villager was squished too much'
+[00:23:40] [Server thread/INFO]: Villager Villager['Villager'/498, uuid='e0de76ec-f585-4ce3-a4c3-25a824fc40a0', l='ServerLevel[world]', x=2228.15, y=61.00, z=-389.59, cpos=[139, -25], tl=29268, v=true] died, message: 'Villager was squished too much'
+[00:33:19] [Server thread/INFO]: ollop78 has made the advancement [A Seedy Place]
