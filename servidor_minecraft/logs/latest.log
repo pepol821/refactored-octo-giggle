@@ -40,3 +40,8 @@
 [00:46:32] [Server thread/INFO]: Done (19.396s)! For help, type "help"
 [00:46:32] [Server thread/INFO]: Timings Reset
 [00:46:32] [Craft Scheduler Thread - 3 - sleep-most/INFO]: [sleep-most] UPDATE FOUND: A newer version of sleep-most is available to download!
+[01:15:15] [User Authenticator #0/INFO]: UUID of player williwanwan is 47c5bf64-f60d-3487-b1ec-b64f2e414735
+[01:15:17] [Server thread/INFO]: williwanwan joined the game
+[01:15:17] [Server thread/INFO]: williwanwan[/127.108.62.154:53395] logged in with entity id 17 at ([world]2258.300000011921, 60.0, -328.52208788086125)
+[01:15:43] [Server thread/INFO]: williwanwan lost connection: Disconnected
+[01:15:43] [Server thread/INFO]: williwanwan left the game
