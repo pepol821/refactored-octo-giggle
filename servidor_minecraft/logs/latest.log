@@ -64,3 +64,9 @@
 [00:10:02] [User Authenticator #2/INFO]: UUID of player williwanwan is 47c5bf64-f60d-3487-b1ec-b64f2e414735
 [00:10:03] [Server thread/INFO]: williwanwan joined the game
 [00:10:03] [Server thread/INFO]: williwanwan[/127.108.62.154:50649] logged in with entity id 1866 at ([world_nether]1437.3181009684622, 31.0, -393.30000001192093)
+[00:13:28] [Server thread/INFO]: Villager Villager['Villager'/495, uuid='594f16cb-cefd-4ed0-8fb3-37d80b4b82a9', l='ServerLevel[world]', x=2228.15, y=61.00, z=-389.59, cpos=[139, -25], tl=87647, v=true] died, message: 'Villager was squished too much'
+[00:15:21] [Server thread/INFO]: Villager Villager['Villager'/496, uuid='ee418808-3430-4497-b163-141c9c978e0c', l='ServerLevel[world]', x=2228.11, y=61.00, z=-389.41, cpos=[139, -25], tl=46034, v=true] died, message: 'Villager was squished too much'
+[00:16:07] [Server thread/INFO]: Villager Villager['Villager'/497, uuid='f8912e3e-468d-48e6-9b2e-581650dd24e7', l='ServerLevel[world]', x=2228.13, y=61.00, z=-389.51, cpos=[139, -25], tl=26477, v=true] died, message: 'Villager was squished too much'
+[00:16:14] [Server thread/INFO]: Villager Villager['Villager'/474, uuid='d43e6765-f6b4-418c-9af1-dd37b1bb459d', l='ServerLevel[world]', x=2228.13, y=61.00, z=-389.59, cpos=[139, -25], tl=604717, v=true] died, message: 'Villager was squished too much'
+[00:19:05] [Server thread/INFO]: Villager Villager['Villager'/467, uuid='73bd596a-08b0-4123-8151-2ec144bdfc6c', l='ServerLevel[world]', x=2228.10, y=61.00, z=-389.52, cpos=[139, -25], tl=260361, v=true] died, message: 'Villager was squished too much'
+[00:19:15] [Server thread/INFO]: Villager Villager['Villager'/479, uuid='b4d36ac7-614a-4dfe-9e43-87ff641a985b', l='ServerLevel[world]', x=2228.12, y=61.00, z=-389.42, cpos=[139, -25], tl=166663, v=true] died, message: 'Villager was squished too much'
