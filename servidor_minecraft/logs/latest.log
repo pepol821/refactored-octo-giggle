@@ -1,49 +1,46 @@
-[22:24:48] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[22:24:48] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[22:24:48] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[22:24:49] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[22:24:49] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[02:36:31] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[02:36:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[02:36:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:36:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[02:36:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - sleep-most (5.5.1)
-[22:24:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:24:57] [ServerMain/INFO]: Loaded 1290 recipes
-[22:24:57] [ServerMain/INFO]: Loaded 1399 advancements
-[22:24:58] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[22:24:58] [Server thread/INFO]: Loading properties
-[22:24:58] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[22:24:59] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[22:24:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:24:59] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:25:00] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[22:25:00] [Server thread/INFO]: Default game type: SURVIVAL
-[22:25:00] [Server thread/INFO]: Generating keypair
-[22:25:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:25:00] [Server thread/INFO]: Using epoll channel type
-[22:25:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[22:25:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[22:25:00] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.1
-[22:25:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:25:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:25:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:25:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:25:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:25:00] [Server thread/INFO]: Preparing level "world"
-[22:25:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:25:04] [Server thread/INFO]: Time elapsed: 3293 ms
-[22:25:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:25:05] [Server thread/INFO]: Time elapsed: 412 ms
-[22:25:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:25:05] [Server thread/INFO]: Time elapsed: 403 ms
-[22:25:05] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.1
-[22:25:06] [Server thread/INFO]: [spark] Starting background profiler...
-[22:25:07] [Server thread/INFO]: Done preparing level "world" (6.381s)
-[22:25:07] [Server thread/INFO]: Running delayed init tasks
-[22:25:07] [Server thread/INFO]: Done (20.525s)! For help, type "help"
-[22:25:07] [Server thread/INFO]: Timings Reset
-[22:25:07] [Craft Scheduler Thread - 3 - sleep-most/INFO]: [sleep-most] UPDATE FOUND: A newer version of sleep-most is available to download!
-[22:25:26] [User Authenticator #0/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
-[22:25:29] [Server thread/INFO]: ollop78 joined the game
-[22:25:29] [Server thread/INFO]: ollop78[/127.19.125.114:57051] logged in with entity id 17 at ([world]2303.171976452287, 63.0, -366.699985377364)
-[22:25:49] [Async Chat Thread - #0/INFO]: [Not Secure] <ollop78> t
-[22:33:58] [User Authenticator #1/INFO]: UUID of player williwanwan is 47c5bf64-f60d-3487-b1ec-b64f2e414735
-[22:34:00] [Server thread/INFO]: williwanwan joined the game
-[22:34:00] [Server thread/INFO]: williwanwan[/127.108.62.154:47751] logged in with entity id 1567 at ([world]2230.3947292612966, 64.0, -368.4982222484256)
+[02:36:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:36:41] [ServerMain/INFO]: Loaded 1290 recipes
+[02:36:42] [ServerMain/INFO]: Loaded 1399 advancements
+[02:36:42] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:36:42] [Server thread/INFO]: Loading properties
+[02:36:42] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[02:36:43] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:36:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:36:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:36:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:36:45] [Server thread/INFO]: Default game type: SURVIVAL
+[02:36:45] [Server thread/INFO]: Generating keypair
+[02:36:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:36:45] [Server thread/INFO]: Using epoll channel type
+[02:36:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:36:45] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:36:45] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.1
+[02:36:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:36:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:36:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:36:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:36:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:36:45] [Server thread/INFO]: Preparing level "world"
+[02:36:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:36:47] [Server thread/INFO]: Time elapsed: 1715 ms
+[02:36:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:36:48] [Server thread/INFO]: Time elapsed: 371 ms
+[02:36:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:36:48] [Server thread/INFO]: Time elapsed: 196 ms
+[02:36:48] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.1
+[02:36:49] [Server thread/INFO]: [spark] Starting background profiler...
+[02:36:49] [Server thread/INFO]: Done preparing level "world" (4.174s)
+[02:36:49] [Server thread/INFO]: Running delayed init tasks
+[02:36:49] [Server thread/INFO]: Done (20.547s)! For help, type "help"
+[02:36:49] [Server thread/INFO]: Timings Reset
+[02:36:49] [Craft Scheduler Thread - 3 - sleep-most/INFO]: [sleep-most] UPDATE FOUND: A newer version of sleep-most is available to download!
+[02:38:01] [User Authenticator #0/INFO]: UUID of player williwanwan is 47c5bf64-f60d-3487-b1ec-b64f2e414735
+[02:38:03] [Server thread/INFO]: williwanwan joined the game
+[02:38:03] [Server thread/INFO]: williwanwan[/127.193.142.163:37737] logged in with entity id 17 at ([world]2232.1712483813435, 65.0, -368.1879219576977)
+[02:41:45] [Server thread/INFO]: williwanwan has made the advancement [A Seedy Place]
