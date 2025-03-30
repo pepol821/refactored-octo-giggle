@@ -64,3 +64,10 @@
 [03:13:12] [Server thread/INFO]: ollop78[/127.203.212.209:35697] logged in with entity id 8010 at ([world]2288.6776669785, 63.0, -372.7075306198227)
 [03:13:27] [Server thread/INFO]: ollop78 lost connection: Disconnected
 [03:13:27] [Server thread/INFO]: ollop78 left the game
+[03:29:16] [Server thread/INFO]: williwanwan lost connection: Disconnected
+[03:29:16] [Server thread/INFO]: williwanwan left the game
+[03:30:39] [User Authenticator #5/INFO]: UUID of player williwanwan is 47c5bf64-f60d-3487-b1ec-b64f2e414735
+[03:30:41] [Server thread/INFO]: williwanwan joined the game
+[03:30:41] [Server thread/INFO]: williwanwan[/127.193.142.163:40207] logged in with entity id 10946 at ([world]2222.778853444354, 65.0, -362.63576448034974)
+[03:31:11] [Server thread/INFO]: williwanwan lost connection: Disconnected
+[03:31:11] [Server thread/INFO]: williwanwan left the game
