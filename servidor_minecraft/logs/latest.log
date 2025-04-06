@@ -74,3 +74,22 @@
 [03:32:47] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
 [03:33:18] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
 [03:33:18] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
+[03:38:07] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[03:38:07] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
+[03:38:13] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
+[03:38:13] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
+[03:39:07] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[03:39:07] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
+[03:41:09] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
+[03:41:09] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
+[03:42:30] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[03:42:30] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
+[03:42:37] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
+[03:42:37] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
+[03:43:16] [Server thread/INFO]: Villager Villager['Armorer'/225, uuid='dd8befb3-673f-4b09-adc7-94ce532edbcb', l='ServerLevel[world]', x=2228.12, y=61.00, z=-389.53, cpos=[139, -25], tl=120418, v=true] died, message: 'Armorer was squished too much'
+[03:43:54] [Server thread/INFO]: Villager Villager['Villager'/245, uuid='8ff43dfd-316a-481f-b402-b30c7a740761', l='ServerLevel[world]', x=2228.20, y=61.00, z=-389.47, cpos=[139, -25], tl=64753, v=true] died, message: 'Villager was squished too much'
+[03:43:55] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[03:43:55] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
+[03:44:02] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
+[03:44:02] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
+[03:44:05] [Server thread/INFO]: Villager Villager['Villager'/229, uuid='9a1ebd04-0f5a-44ea-bc07-346cc5ff5558', l='ServerLevel[world]', x=2228.12, y=61.00, z=-389.43, cpos=[139, -25], tl=275386, v=true] died, message: 'Villager was squished too much'
