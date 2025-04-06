@@ -1,95 +1,52 @@
-[03:05:56] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[03:05:56] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[03:05:56] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:05:57] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[03:05:57] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[03:58:02] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[03:58:02] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[03:58:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:58:02] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[03:58:02] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - sleep-most (5.5.1)
-[03:06:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:06:04] [ServerMain/INFO]: Loaded 1290 recipes
-[03:06:05] [ServerMain/INFO]: Loaded 1399 advancements
-[03:06:05] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[03:06:05] [Server thread/INFO]: Loading properties
-[03:06:05] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[03:06:06] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[03:06:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:06:06] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:06:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[03:06:07] [Server thread/INFO]: Default game type: SURVIVAL
-[03:06:07] [Server thread/INFO]: Generating keypair
-[03:06:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:06:07] [Server thread/INFO]: Using epoll channel type
-[03:06:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:06:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:06:08] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.1
-[03:06:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:06:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:06:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:06:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:06:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:06:08] [Server thread/INFO]: Preparing level "world"
-[03:06:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:06:12] [Server thread/INFO]: Time elapsed: 3915 ms
-[03:06:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:06:13] [Server thread/INFO]: Time elapsed: 583 ms
-[03:06:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:06:13] [Server thread/INFO]: Time elapsed: 371 ms
-[03:06:13] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.1
-[03:06:14] [Server thread/INFO]: [spark] Starting background profiler...
-[03:06:15] [Server thread/INFO]: Done preparing level "world" (7.072s)
-[03:06:15] [Server thread/INFO]: Running delayed init tasks
-[03:06:15] [Server thread/INFO]: Done (21.120s)! For help, type "help"
-[03:06:15] [Server thread/INFO]: Timings Reset
-[03:06:15] [Craft Scheduler Thread - 3 - sleep-most/INFO]: [sleep-most] UPDATE FOUND: A newer version of sleep-most is available to download!
-[03:06:48] [User Authenticator #0/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
-[03:06:49] [Server thread/INFO]: ollop78 joined the game
-[03:06:50] [Server thread/INFO]: ollop78[/127.203.212.209:45273] logged in with entity id 35 at ([world]2328.2974091573046, 105.0, -363.9942930550898)
-[03:07:27] [Server thread/INFO]: Nothing changed. The player is not an operator
-[03:07:33] [Server thread/INFO]: Made ollop78 a server operator
-[03:07:39] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[03:07:39] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[03:07:50] [Server thread/INFO]: Villager Villager['Villager'/246, uuid='70f9cfea-fa08-497d-8bc0-8648a69f30c2', l='ServerLevel[world]', x=2228.18, y=61.00, z=-389.55, cpos=[139, -25], tl=53202, v=true] died, message: 'Villager was squished too much'
-[03:11:10] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[03:11:10] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[03:18:14] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[03:18:14] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[03:18:44] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[03:18:44] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[03:20:23] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[03:20:23] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[03:21:07] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[03:21:07] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[03:25:44] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[03:25:44] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[03:26:22] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[03:26:22] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[03:28:45] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[03:28:45] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[03:29:19] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[03:29:19] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[03:32:26] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[03:32:26] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[03:32:34] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[03:32:34] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[03:32:47] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[03:32:47] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[03:33:18] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[03:33:18] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[03:38:07] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[03:38:07] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[03:38:13] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[03:38:13] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[03:39:07] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[03:39:07] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[03:41:09] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[03:41:09] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[03:42:30] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[03:42:30] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[03:42:37] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[03:42:37] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[03:43:16] [Server thread/INFO]: Villager Villager['Armorer'/225, uuid='dd8befb3-673f-4b09-adc7-94ce532edbcb', l='ServerLevel[world]', x=2228.12, y=61.00, z=-389.53, cpos=[139, -25], tl=120418, v=true] died, message: 'Armorer was squished too much'
-[03:43:54] [Server thread/INFO]: Villager Villager['Villager'/245, uuid='8ff43dfd-316a-481f-b402-b30c7a740761', l='ServerLevel[world]', x=2228.20, y=61.00, z=-389.47, cpos=[139, -25], tl=64753, v=true] died, message: 'Villager was squished too much'
-[03:43:55] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
-[03:43:55] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
-[03:44:02] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
-[03:44:02] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
-[03:44:05] [Server thread/INFO]: Villager Villager['Villager'/229, uuid='9a1ebd04-0f5a-44ea-bc07-346cc5ff5558', l='ServerLevel[world]', x=2228.12, y=61.00, z=-389.43, cpos=[139, -25], tl=275386, v=true] died, message: 'Villager was squished too much'
+[03:58:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:58:10] [ServerMain/INFO]: Loaded 1290 recipes
+[03:58:10] [ServerMain/INFO]: Loaded 1399 advancements
+[03:58:10] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:58:10] [Server thread/INFO]: Loading properties
+[03:58:10] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[03:58:11] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:58:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:58:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:58:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[03:58:12] [Server thread/INFO]: Default game type: SURVIVAL
+[03:58:12] [Server thread/INFO]: Generating keypair
+[03:58:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:58:13] [Server thread/INFO]: Using epoll channel type
+[03:58:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:58:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:58:13] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.1
+[03:58:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:58:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:58:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:58:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:58:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:58:13] [Server thread/INFO]: Preparing level "world"
+[03:58:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:58:15] [Server thread/INFO]: Time elapsed: 1776 ms
+[03:58:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:58:16] [Server thread/INFO]: Time elapsed: 595 ms
+[03:58:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:58:16] [Server thread/INFO]: Time elapsed: 119 ms
+[03:58:16] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.1
+[03:58:17] [Server thread/INFO]: [spark] Starting background profiler...
+[03:58:17] [Server thread/INFO]: Done preparing level "world" (3.953s)
+[03:58:17] [Server thread/INFO]: Running delayed init tasks
+[03:58:17] [Server thread/INFO]: Done (16.551s)! For help, type "help"
+[03:58:17] [Server thread/INFO]: Timings Reset
+[03:58:17] [Craft Scheduler Thread - 3 - sleep-most/INFO]: [sleep-most] UPDATE FOUND: A newer version of sleep-most is available to download!
+[03:58:21] [User Authenticator #0/INFO]: UUID of player ollop78 is 017e40b1-a3dd-3ae5-964c-c6f19a1b307f
+[03:58:23] [Server thread/INFO]: ollop78 joined the game
+[03:58:23] [Server thread/INFO]: ollop78[/127.203.212.209:60597] logged in with entity id 35 at ([world]2329.0262566560496, 129.0, -369.73396193290125)
+[03:58:30] [Server thread/INFO]: Villager Villager['Villager'/230, uuid='09fd66d4-d4f9-4d10-bd20-5598ec3b9eaf', l='ServerLevel[world]', x=2228.22, y=61.00, z=-389.43, cpos=[139, -25], tl=30862, v=true] died, message: 'Villager was squished too much'
+[03:58:42] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[03:58:42] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
+[04:01:53] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
+[04:01:53] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
+[04:07:29] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[04:07:29] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
