@@ -58,3 +58,7 @@
 [04:47:51] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
 [04:47:58] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
 [04:47:58] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
+[05:01:02] [Server thread/INFO]: ollop78 issued server command: /gamemode creative
+[05:01:02] [Server thread/INFO]: [ollop78: Set own game mode to Creative Mode]
+[05:01:39] [Server thread/INFO]: ollop78 issued server command: /gamemode survival
+[05:01:39] [Server thread/INFO]: [ollop78: Set own game mode to Survival Mode]
